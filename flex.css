@@ -1,0 +1,148 @@
+.fcontainer {
+
+display: flex;
+justify-content: start;
+margin: 20px;
+}
+.fitem{
+
+    background-color: rgb(249, 253, 253);
+    border: 2px solid rgb(238, 238, 238);
+    margin: 10px;
+    width: 400px;
+    height: 300px;
+}
+.fcontainer2{
+display: flex;
+justify-content: start;
+margin: 20px;
+}
+.box33{
+    background-color: rgb(250, 252, 252);
+    border: 2px solid rgb(238, 238, 238);
+    margin: 10px;
+    width: 400px;
+    height: 300px;
+    /* position: relative;
+    left: 450px;
+    bottom: 210px; */
+
+}
+.fcontainer h3{
+    color:#00A5EC;
+    font-size: x-large;
+    margin-left: 20px;
+
+}
+.fcontainer2 h3{
+    color:#00A5EC;
+    font-size: x-large;
+    margin-left: 20px;
+
+}
+
+.padding{
+    margin: 5px;
+    padding: 20px;
+    color: grey;
+}
+.padding1{
+    padding: 10px;
+    padding-left: 0px;
+    color: black;
+}
+/* input[type="checkbox"]{
+    appearance: none;
+-webkit-appearance: none;
+background-color: grey;
+height: 20px;
+width: 20px;
+border-radius: 5px;
+cursor: pointer;
+
+}
+label{
+    color: grey;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 600;
+    cursor: pointer;
+} */
+.box1{
+    padding: 20px;
+    margin: 5px;
+}
+.box2{
+    padding-left: 0px;
+    margin: 25px;
+    margin-bottom: 20px;
+    position: relative;
+    bottom: 30px;
+
+}
+.box3-1{
+
+    padding: 20px;
+
+}
+.box3-2{
+padding: 20px;
+position: relative;
+bottom: 20px;
+}
+.box4-1{
+
+padding: 20px;
+
+}
+.box4-2{
+
+    padding: 20px;
+    position: relative;
+    bottom: 25px;
+    
+}
+.box5-1{
+padding: 20px;
+
+}
+.box5-2{
+position: relative;
+
+margin-left: 25px;
+
+
+
+}
+.size{
+font-size: medium;    
+}
+.page3{
+    position: absolute;
+    left: 400px;
+
+}
+.relative{
+    padding-right: 500px;
+    font-size: x-large;
+    margin-bottom: -50px;
+
+}
+.back{
+    position: relative;
+    top: 25px;
+    font-size: medium;
+    
+    padding-top: 30px;
+}
+.img{
+    text-decoration: none;
+    color: grey;
+}
+
+
+.cross{
+    position: relative;
+    left: 350px;
+    bottom: 45px;
+}

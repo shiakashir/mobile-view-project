@@ -1,0 +1,47 @@
+.navbar{
+    border: 2px solid #00A5EC;
+    border-radius: 5px;
+    
+    width: 150px;
+    height: 35px;
+    float: right;
+    position: relative;
+top: 5px;
+right: 10px;
+text-align: center;
+background-color:#00A5EC;
+}
+.alig{
+    position: relative;
+    top: 10px;
+    color: hsl(208, 100%, 97%);
+}
+.spacing{
+    letter-spacing: 2px;
+}
+.navbar2{
+    position: relative;
+    bottom: 380px;
+    right: 490px;
+}
+.newitem{
+    padding: 30px;
+}
+.visitfamous{
+    padding: 10px;
+    margin-top: 10px;
+}
+.additem{
+    background-color: #00A5EC;
+    width: 100px;
+    padding: 8px;
+    border-radius: 5px;
+    color: white;
+    position: relative;
+    left: 290px;
+    top: 20px;
+}
+
+
+
+

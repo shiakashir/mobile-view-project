@@ -1,0 +1,190 @@
+.border1{
+    border: inset;
+    background: #FFFFFF;
+    padding: 5px;
+margin: 0;
+padding-left: 50px;
+}
+.icon{
+    margin: 30px;
+    font-size: 35px;
+    text-align: left; 
+    
+     display: flex;
+
+align-items:0 ;
+justify-content: flex-end;
+/* position: absolute;
+right: 0px; */
+
+}
+.icon2{
+    font-size: 20px;
+    position: relative;
+    top: 10px;
+}
+.font{
+    font-size: 20px;
+    letter-spacing: 0px;
+}
+.back{
+    font-size: x-large;
+    padding-left: 430px;
+}
+hr {
+    border-width: px;
+    border-color: rgb(253, 253, 253);
+}
+.link2{
+    color: black;
+}
+.blur{
+    filter: blur(2px);
+}
+
+.blur2{
+    filter: blur(1px);
+
+}
+
+.addtask{
+    border:2px solid #EDEDED;
+   border-style: outset;
+    border-radius: 20px;
+    width: 400px;
+    height: 250px;
+    position: absolute;
+    bottom: 250px;
+    left: 450px;
+    background-color: rgb(255, 255, 255);
+}
+.text {
+    color: black;
+}
+.taskborder{
+
+    border:1px solid gray;
+    width: 370px;
+    border: hidden;
+    height: 20px;
+    padding: 5px;
+padding-bottom: px;
+padding-left: 10px;
+position: relative;
+left: 5px;
+top: 20px;
+background-color: #EDEDED;
+border-radius: 5px;
+}
+.add{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 10px;
+    border: 2px solid;
+    border: hidden;
+}
+.learncss{
+    position: relative;
+    bottom: 20px;
+}
+.taskbar{
+    border:2px solid #EDEDED;
+   border-style: outset;
+    border-radius: 20px;
+    width: 400px;
+    height: 220px;
+    position: relative;
+    top: 70px;
+    left: 450px;
+    background-color: rgb(255, 255, 255);
+}
+.visitfamous{
+    /* border: 2px solid gray; */
+    border-radius: 2px;
+    width: 380px;
+    height: 35px;
+    padding: 5px;
+
+    position: relative;
+    left: 10px;
+    background-color: #EDEDED;
+}
+.taskbar h3{
+    padding-left: 20px;
+}
+.addnewtask{
+position: absolute;
+left: 700px;
+
+font-size: large;
+
+    }
+
+
+@media (min-width: 200px) and (max-width: 500px)  { 
+    .border1 {
+display: block;
+width: 100vw;
+font-size: small;
+    }
+
+.icon {
+font-size: 20px;
+justify-content: center;
+
+}
+#newone {
+font-size: 20px;
+}
+.fcontainer{
+
+display: flex;
+flex-direction: column;
+}
+
+.container123{
+
+position: relative;
+right: 400px;
+bottom: 500px;
+    
+}
+.fitem {
+position: relative;
+left: 10px;
+
+}
+
+.cross{
+
+position: absolute;
+width: 10vw;
+}
+
+.back {
+position: relative;
+right: 100%;
+
+    
+}
+.army {
+    position: relative;
+right: 390px;
+}
+.fitem {
+position: relative;
+right: 380px;
+
+
+}
+.text { 
+
+
+text-decoration: solid;
+    position: relative;
+    right: 370px;
+    bottom: 20px;
+
+}
+
+}
+
